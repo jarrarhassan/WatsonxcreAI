@@ -20,6 +20,6 @@ TBD
 
 # Who, When, Why?
 
-👨🏾‍💻 Author: Nick Renotte <br />
+👨🏾‍💻 Author: Jarrar <br />
 📅 Version: 1.x<br />
 📜 License: This project is licensed under the MIT License </br>
